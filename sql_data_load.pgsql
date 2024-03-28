@@ -93,4 +93,7 @@ ALTER TABLE Skills_job
     ADD CONSTRAINT job_id FOREIGN KEY (job_id) REFERENCES Job_Posting (job_id);
 ALTER TABLE Skills_job
     ADD CONSTRAINT skill_idd FOREIGN KEY (skill_id) REFERENCES Skills (skill_id);
-     
+
+--Changing job_location from 'Anywhere' to 'remote'(In the raw data remote was denoted as Anywhere)
+UPDATE Job_posting
+SET job_location = REPLACE(job_location, 'Anywhere', 'Remote');
