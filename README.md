@@ -2,18 +2,18 @@
 
 # Introduction
 
-🔍 This project draws inspiration from [Luke Barousse](https://www.linkedin.com/in/luke-b/) and his work on [datanerd.tech](https://datanerd.tech/). Our goal is to delve into various aspects of Data Analyst jobs, leveraging SQL for analysis.
+🔍This project draws inspiration from [Luke Barousse](https://www.linkedin.com/in/luke-b/) and his work on [datanerd.tech](https://datanerd.tech/). Our goal is to delve into various aspects of Data Analyst jobs, leveraging SQL for analysis.
 
 
 ## Topics Explored 🚀
 1. **Top Paying Jobs**
-    - a. Top paying Data Analyst Jobs
-    - b. Top paying Data Analyst Jobs In India
-    - c. Top paying Data Analyst Jobs (Remote)
+    - Top paying Data Analyst Jobs
+    - Top paying Data Analyst Jobs In India
+    - Top paying Data Analyst Jobs (Remote)
 
 2. **Skills For Top Paying Jobs**
-    - a. Skills for Top paying Data Analyst Jobs
-    - b. Programming Skills Required for Top paying Data Analyst Jobs
+    - Skills for Top paying Data Analyst Jobs
+    - Programming Skills Required for Top paying Data Analyst Jobs
 
 3. **Most Demanded Skills**
 
@@ -53,7 +53,7 @@ limit 10
 
 ![Top paying Data Analyst Jobs](Results/Top%20Paying%20Data%20Analyst%20Jobs.png)
 
-* Here is the Visulization for the result of above query 
+*Here is the Visulization for the result of above query 
 
 ### b. Top paying Data Analyst Jobs In India
 
