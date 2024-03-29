@@ -1,4 +1,4 @@
---Top Optimal Skills(optimal skills is which offers both job security (high demand) and financial benefits (high salaries))
+--Top Optimal Skills(optimal skills are which offers both job security (high demand) and financial benefits (high salaries))
 
 SELECT 
     skills,
