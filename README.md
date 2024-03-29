@@ -53,7 +53,7 @@ limit 10
 
 ![Top paying Data Analyst Jobs](Results/Top%20Paying%20Data%20Analyst%20Jobs.png)
 
-*Here is the Visulization for the result of above query 
+* Here is the Visulization for the result of above query * 
 
 ### b. Top paying Data Analyst Jobs In India
 
@@ -90,7 +90,7 @@ Limit 10
 
 ![Top paying Data Analyst Jobs In India](Results/Top%20Paying%20Data%20Analyst%20Jobs%20(India).png)
 
-* Here is the Visulization for the result of above query 
+* Here is the Visulization for the result of above query *  
 
 ### c. Top paying Data Analyst Jobs(Remote)
 
@@ -133,7 +133,7 @@ Limit 10;
 ```
 ![Skills For Top Paying Jobs](/Results/Top%20paying%20Skills.png)
 
-* Here is the Visulization for the result of above query 
+* Here is the Visulization for the result of above query * 
 
 
 ### b. Programming Skills Requried for Top paying Data Analyst Jobs
@@ -142,11 +142,11 @@ Here by using Group BY we have analyzed Top Programming skills required
 
 [SQL_Query_for_This](/sql_project_files/Skills_for_top_paying_jobs/skills_top_paying(Specific%20Type%20of%20skills).pgsql)
 
-* We can Analyze Different Type of Skills just by doing Some Minor Changes in this query 
+* We can Analyze Different Type of Skills just by doing Some Minor Changes in this query * 
 
 ![Programming Skills For Top Paying Jobs](/Results/Top%20Paying%20Programming%20Skills.png)
 
-* Here is the Visulization for the result of above query 
+* Here is the Visulization for the result of above query * 
 
 ## 3. Most Demanded Skills 
 
@@ -167,7 +167,7 @@ Limit 10
 ```
 ![Most Demanded Skills ](/Results/Top%20Demanded%20Skills.png)
 
-* Here is the Visulization for the result of above query 
+* Here is the Visulization for the result of above query *
 
 
 ## 4. Skills which are associated with higher salaries(Data Analyst)
@@ -191,14 +191,14 @@ Limit 10
 
 ![Most Demanded ](/Results/High%20Paying%20Skills.png)
 
-* Here is the Visulization for the result of above query 
+* Here is the Visulization for the result of above query * 
 
 ## 5. Most Optimal Skills 
 Here we are focusing on Optimal Skills(optimal skills are which offers both job security (high demand) and financial benefits (high salaries))
 
 [Query for This](/sql_project_files/Optimal_skills/top_optimal_skills.pgsql)
 ![Optimal Skills](/Results/Top%20Optimal%20Skills.png)
-*Here is the Visulization for the result of above query 
+* Here is the Visulization for the result of above query * 
 
 
 
