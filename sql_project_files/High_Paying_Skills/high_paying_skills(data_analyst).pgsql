@@ -2,7 +2,7 @@
 
 Select     
     skills,
-    AVG(salary_year_avg) as AVG_Salary
+    Round(AVG(salary_year_avg),2) as AVG_Salary
 FROM job_posting
 Inner JOIN skills_job on job_posting.job_id = skills_job.job_id
 Inner JOIN skills on skills_job.skill_id = skills.skill_id

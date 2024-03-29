@@ -16,7 +16,7 @@ Limit 10
 
 Select     
     skills,
-    AVG(salary_year_avg) as AVG_Salary
+    Round(AVG(salary_year_avg),2) as AVG_Salary
 FROM top_paying_job 
 Inner JOIN skills_job on top_paying_job.job_id = skills_job.job_id
 Inner JOIN skills on skills_job.skill_id = skills.skill_id

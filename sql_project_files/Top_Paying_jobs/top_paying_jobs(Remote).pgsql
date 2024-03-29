@@ -16,6 +16,11 @@ Where
 Order by 
     salary_year_avg DESC 
 )
-Select * FROM top_paying_job
+Select 
+    job_id,
+	job_title,
+    Company_name,  
+	job_schedule_type,
+	salary_year_avg FROM top_paying_job
 WHERE job_location = 'Remote'
 Limit 10
